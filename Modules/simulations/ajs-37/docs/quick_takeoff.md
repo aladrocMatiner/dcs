@@ -1,6 +1,6 @@
 # AJS-37 Viggen — Quick Takeoff (DCS)
 
-Basado en `Modules/simulations/ajs-37/DCS_AJS37_Flight_Manual_EN.pdf` (capítulo “Takeoff & Landing”).
+Basado en `../DCS_AJS37_Flight_Manual_EN.pdf` (capítulo “Takeoff & Landing”).
 
 ## Antes de entrar a pista (rápido)
 
@@ -76,4 +76,3 @@ Para resetear un ajuste manual ya hecho: cicla `Master Mode` `NAV → BER → NA
 
 - En pista deslizante + viento cruzado: usa el ajuste manual de curso inicial.
 - Si notas “bache” de sustentación al subir tren: no lo fuerces; estabiliza actitud y velocidad.
-
