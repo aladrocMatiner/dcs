@@ -23,7 +23,7 @@ If you only want to get airborne quickly, use [quick_takeoff.en.md](quick_takeof
 
 First, learn *where* things live:
 
-![Cockpit layout](docs/pedagogical_assets/cockpit_layout.png)
+![Cockpit layout](assets/pedagogical_assets/cockpit_layout.png)
 
 - **Front panel**: main flight instruments + HUD + warning lights.
 - **Left side**: many aircraft/system controls (engine, electrical, etc.).
@@ -31,7 +31,7 @@ First, learn *where* things live:
 
 Front panel overview:
 
-![Front panel overview](docs/pedagogical_assets/front_panel.png)
+![Front panel overview](assets/pedagogical_assets/front_panel.png)
 
 ### The 6 Things You Always Monitor
 

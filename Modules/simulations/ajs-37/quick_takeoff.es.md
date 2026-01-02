@@ -12,7 +12,7 @@ Basado en el manual oficial: [docs/DCS_AJS37_Flight_Manual_EN.pdf](docs/DCS_AJS3
 
 ## En cabecera (antes de despegar)
 
-![Before take-off checklist](docs/quick_takeoff_assets/before_takeoff.png)
+![Before take-off checklist](assets/quick_takeoff_assets/before_takeoff.png)
 
 1. Alinea el avión con la pista.
 2. Comprueba: curso principal, curso backup, horizonte artificial backup y altímetro.
@@ -39,7 +39,7 @@ Para resetear un ajuste manual ya hecho: cicla `Master Mode` `NAV → BER → NA
 
 ## Método 1: despegue usando el HUD (recomendado)
 
-![Takeoff using the HUD](docs/quick_takeoff_assets/takeoff_hud_method.png)
+![Takeoff using the HUD](assets/quick_takeoff_assets/takeoff_hud_method.png)
 
 1. Frena (wheel brakes).
 2. Acelera a potencia máxima SIN postcombustión.
@@ -66,7 +66,7 @@ Para resetear un ajuste manual ya hecho: cicla `Master Mode` `NAV → BER → NA
 
 ## Método 2: despegue usando el indicador de actitud
 
-![Takeoff using attitude indicator](docs/quick_takeoff_assets/takeoff_attitude_method.png)
+![Takeoff using attitude indicator](assets/quick_takeoff_assets/takeoff_attitude_method.png)
 
 1. Pasos 1–4: igual que el método HUD.
 2. Rotación:

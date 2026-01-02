@@ -23,7 +23,7 @@ Jos haluat vain ilmaan nopeasti, käytä [quick_takeoff.fi.md](quick_takeoff.fi.
 
 Opettele ensin *missä* asiat ovat:
 
-![Ohjaamon yleisasettelu](docs/pedagogical_assets/cockpit_layout.png)
+![Ohjaamon yleisasettelu](assets/pedagogical_assets/cockpit_layout.png)
 
 - **Etupaneeli**: tärkeimmät lentomittarit + HUD + varoitusvalot.
 - **Vasen sivu**: paljon järjestelmäkytkimiä (moottori, sähkö jne.).
@@ -31,7 +31,7 @@ Opettele ensin *missä* asiat ovat:
 
 Etupaneelin yleiskuva:
 
-![Etupaneeli](docs/pedagogical_assets/front_panel.png)
+![Etupaneeli](assets/pedagogical_assets/front_panel.png)
 
 ### 6 Asiaa, Joita Seuraat Aina
 

@@ -12,7 +12,7 @@ Perustuu viralliseen käsikirjaan: [docs/DCS_AJS37_Flight_Manual_EN.pdf](docs/DC
 
 ## Kiitotiellä (Before take-off)
 
-![Before take-off checklist](docs/quick_takeoff_assets/before_takeoff.png)
+![Before take-off checklist](assets/quick_takeoff_assets/before_takeoff.png)
 
 1. Asetu kiitotien suuntaan.
 2. Tarkista: pääkurssi, varakurssi, varahorisontti ja korkeusmittari.
@@ -39,7 +39,7 @@ Manuaalisen asetuksen nollaus: vaihda `Master Mode` `NAV → BER → NAV` (sama 
 
 ## Menetelmä 1: nousu HUD:lla (suositeltu)
 
-![Takeoff using the HUD](docs/quick_takeoff_assets/takeoff_hud_method.png)
+![Takeoff using the HUD](assets/quick_takeoff_assets/takeoff_hud_method.png)
 
 1. Pidä pyöräjarru.
 2. Täysi teho **ilman jälkipolttoa**.
@@ -66,7 +66,7 @@ Manuaalisen asetuksen nollaus: vaihda `Master Mode` `NAV → BER → NAV` (sama 
 
 ## Menetelmä 2: nousu asentoindikaattorilla
 
-![Takeoff using attitude indicator](docs/quick_takeoff_assets/takeoff_attitude_method.png)
+![Takeoff using attitude indicator](assets/quick_takeoff_assets/takeoff_attitude_method.png)
 
 1. Vaiheet 1–4: kuten HUD-menetelmä.
 2. Rotate:
@@ -79,4 +79,3 @@ Manuaalisen asetuksen nollaus: vaihda `Master Mode` `NAV → BER → NAV` (sama 
 
 - Liukas kiitotie + kova sivutuuli: käytä manuaalista alkuperäiskurssia.
 - Jos tunnet pienen “dippauksen” nostossa telineen noustessa: älä taistele sitä vastaan—vakauta asento ja nopeus.
-

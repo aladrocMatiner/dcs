@@ -12,7 +12,7 @@ Based on the official manual: [docs/DCS_AJS37_Flight_Manual_EN.pdf](docs/DCS_AJS
 
 ## On the runway (Before take-off)
 
-![Before take-off checklist](docs/quick_takeoff_assets/before_takeoff.png)
+![Before take-off checklist](assets/quick_takeoff_assets/before_takeoff.png)
 
 1. Align the aircraft with the runway.
 2. Check: main course, backup course, backup artificial horizon, and altimeter.
@@ -39,7 +39,7 @@ To reset an existing manual initial course setting: cycle `Master Mode` `NAV →
 
 ## Method 1: takeoff using the HUD (recommended)
 
-![Takeoff using the HUD](docs/quick_takeoff_assets/takeoff_hud_method.png)
+![Takeoff using the HUD](assets/quick_takeoff_assets/takeoff_hud_method.png)
 
 1. Apply wheel brakes.
 2. Advance throttle to maximum power **without afterburner**.
@@ -66,7 +66,7 @@ To reset an existing manual initial course setting: cycle `Master Mode` `NAV →
 
 ## Method 2: takeoff using the Flight Attitude Indicator
 
-![Takeoff using attitude indicator](docs/quick_takeoff_assets/takeoff_attitude_method.png)
+![Takeoff using attitude indicator](assets/quick_takeoff_assets/takeoff_attitude_method.png)
 
 1. Steps 1–4: same as the HUD method.
 2. Rotate:
@@ -79,4 +79,3 @@ To reset an existing manual initial course setting: cycle `Master Mode` `NAV →
 
 - Slippery runway + heavy crosswind: use manual initial course setting.
 - If you feel a “dip” in lift when raising the gear: don’t fight it—stabilize attitude and speed.
-

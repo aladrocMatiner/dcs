@@ -12,7 +12,7 @@ Bygger på den officiella manualen: [docs/DCS_AJS37_Flight_Manual_EN.pdf](docs/D
 
 ## På banan (Before take-off)
 
-![Before take-off checklist](docs/quick_takeoff_assets/before_takeoff.png)
+![Before take-off checklist](assets/quick_takeoff_assets/before_takeoff.png)
 
 1. Rikta in flygplanet mot banan.
 2. Kontrollera: huvudkurs, reservkurs, reservhorisont och höjdmätare.
@@ -39,7 +39,7 @@ För att nollställa en manuell initial kurs: växla `Master Mode` `NAV → BER 
 
 ## Metod 1: start med HUD (rekommenderad)
 
-![Takeoff using the HUD](docs/quick_takeoff_assets/takeoff_hud_method.png)
+![Takeoff using the HUD](assets/quick_takeoff_assets/takeoff_hud_method.png)
 
 1. Håll hjulbroms.
 2. Ge max effekt **utan efterbrännkammare**.
@@ -66,7 +66,7 @@ För att nollställa en manuell initial kurs: växla `Master Mode` `NAV → BER 
 
 ## Metod 2: start med attitydindikatorn
 
-![Takeoff using attitude indicator](docs/quick_takeoff_assets/takeoff_attitude_method.png)
+![Takeoff using attitude indicator](assets/quick_takeoff_assets/takeoff_attitude_method.png)
 
 1. Steg 1–4: samma som HUD-metoden.
 2. Rotera:
@@ -79,4 +79,3 @@ För att nollställa en manuell initial kurs: växla `Master Mode` `NAV → BER 
 
 - Hal bana + kraftig sidvind: använd manuell initial kurs.
 - Känner du ett “lyftdip” när landstället går upp: stabilisera attityd och fart, överkorrigera inte.
-

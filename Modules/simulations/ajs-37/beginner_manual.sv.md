@@ -23,7 +23,7 @@ Vill du bara komma i luften snabbt: använd [quick_takeoff.sv.md](quick_takeoff.
 
 Börja med att lära dig *var* saker finns:
 
-![Cockpitlayout](docs/pedagogical_assets/cockpit_layout.png)
+![Cockpitlayout](assets/pedagogical_assets/cockpit_layout.png)
 
 - **Frontpanelen**: primära flyginstrument + HUD + varningslampor.
 - **Vänster sida**: många systemreglage (motor, el, m.m.).
@@ -31,7 +31,7 @@ Börja med att lära dig *var* saker finns:
 
 Frontpanelöversikt:
 
-![Frontpanelen](docs/pedagogical_assets/front_panel.png)
+![Frontpanelen](assets/pedagogical_assets/front_panel.png)
 
 ### De 6 Viktigaste Sakerna Att Alltid Övervaka
 

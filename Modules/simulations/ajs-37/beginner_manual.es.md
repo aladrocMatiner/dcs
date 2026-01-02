@@ -23,7 +23,7 @@ Si solo quieres despegar rápido, usa [quick_takeoff.es.md](quick_takeoff.es.md)
 
 Primero aprende *dónde* está cada cosa importante:
 
-![Distribución del cockpit](docs/pedagogical_assets/cockpit_layout.png)
+![Distribución del cockpit](assets/pedagogical_assets/cockpit_layout.png)
 
 - **Panel frontal**: instrumentos de vuelo principales + HUD + avisos.
 - **Lado izquierdo**: muchos controles de sistemas (motor, eléctrico, etc.).
@@ -31,7 +31,7 @@ Primero aprende *dónde* está cada cosa importante:
 
 Vista del panel frontal:
 
-![Panel frontal](docs/pedagogical_assets/front_panel.png)
+![Panel frontal](assets/pedagogical_assets/front_panel.png)
 
 ### Las 6 Cosas Que Siempre Debes Vigilar
 
