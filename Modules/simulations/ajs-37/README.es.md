@@ -1,7 +1,7 @@
 # AJS-37 Viggen — Docs (Español)
 
 Idioma:
-🇬🇧 [English](README.en.md) · 🇪🇸 [Español](README.es.md) · 🇸🇪 [Svenska](README.sv.md) · 🇫🇮 [Suomi](README.fi.md)
+🇬🇧 [English](README.md) · 🇪🇸 [Español](README.es.md) · 🇸🇪 [Svenska](README.sv.md) · 🇫🇮 [Suomi](README.fi.md)
 
 Bienvenido a bordo. Regla de oro: primero vuela, luego aprieta botones.
 
@@ -13,4 +13,3 @@ Bienvenido a bordo. Regla de oro: primero vuela, luego aprieta botones.
 ## Manual Oficial
 
 - PDF (manual oficial del módulo): [docs/DCS_AJS37_Flight_Manual_EN.pdf](docs/DCS_AJS37_Flight_Manual_EN.pdf)
-

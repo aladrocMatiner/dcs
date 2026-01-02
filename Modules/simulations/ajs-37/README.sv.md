@@ -1,7 +1,7 @@
 # AJS-37 Viggen — Docs (Svenska)
 
 Språk:
-🇬🇧 [English](README.en.md) · 🇪🇸 [Español](README.es.md) · 🇸🇪 [Svenska](README.sv.md) · 🇫🇮 [Suomi](README.fi.md)
+🇬🇧 [English](README.md) · 🇪🇸 [Español](README.es.md) · 🇸🇪 [Svenska](README.sv.md) · 🇫🇮 [Suomi](README.fi.md)
 
 Välkommen ombord. Grundregel: flyg först, knappar sen.
 
@@ -13,4 +13,3 @@ Välkommen ombord. Grundregel: flyg först, knappar sen.
 ## Officiell Manual
 
 - PDF (officiell modulmanual): [docs/DCS_AJS37_Flight_Manual_EN.pdf](docs/DCS_AJS37_Flight_Manual_EN.pdf)
-

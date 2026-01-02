@@ -1,7 +1,7 @@
 # AJS-37 Viggen — Docs (Suomi)
 
 Kieli:
-🇬🇧 [English](README.en.md) · 🇪🇸 [Español](README.es.md) · 🇸🇪 [Svenska](README.sv.md) · 🇫🇮 [Suomi](README.fi.md)
+🇬🇧 [English](README.md) · 🇪🇸 [Español](README.es.md) · 🇸🇪 [Svenska](README.sv.md) · 🇫🇮 [Suomi](README.fi.md)
 
 Tervetuloa kyytiin. Perussääntö: lennä ensin, napit sitten.
 
@@ -13,4 +13,3 @@ Tervetuloa kyytiin. Perussääntö: lennä ensin, napit sitten.
 ## Virallinen Käsikirja
 
 - PDF (moduulin virallinen ohje): [docs/DCS_AJS37_Flight_Manual_EN.pdf](docs/DCS_AJS37_Flight_Manual_EN.pdf)
-

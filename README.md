@@ -2,9 +2,9 @@
 
 ## AJS-37 (Viggen)
 
-- Docs index: [Modules/simulations/ajs-37/README.md](Modules/simulations/ajs-37/README.md)
+- AJS-37 docs (English): [Modules/simulations/ajs-37/README.md](Modules/simulations/ajs-37/README.md)
 - Docs by language:
-  - 🇬🇧 [English](Modules/simulations/ajs-37/README.en.md)
+  - 🇬🇧 [English](Modules/simulations/ajs-37/README.md)
   - 🇪🇸 [Español](Modules/simulations/ajs-37/README.es.md)
   - 🇸🇪 [Svenska](Modules/simulations/ajs-37/README.sv.md)
   - 🇫🇮 [Suomi](Modules/simulations/ajs-37/README.fi.md)
