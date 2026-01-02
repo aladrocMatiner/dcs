@@ -2,11 +2,13 @@
 
 ## Beginner Manuals (Pedagogical)
 
-- English: `beginner_manual.en.md`
-- Español: `beginner_manual.es.md`
-- Svenska: `beginner_manual.sv.md`
+Pick your language:
+
+- 🇬🇧 English: `beginner_manual.en.md`
+- 🇪🇸 Español: `beginner_manual.es.md`
+- 🇸🇪 Svenska: `beginner_manual.sv.md`
+- 🇫🇮 Suomi: `beginner_manual.fi.md`
 
 ## Quick Reference
 
-- Quick takeoff: `quick_takeoff.md`
-
+- Takeoff checklist: `quick_takeoff.md`

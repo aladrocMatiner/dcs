@@ -3,6 +3,9 @@
 This is a practical, step-by-step guide for someone who is new to flight sims and new to the Viggen.
 It is designed to get you from “cold airplane” to “basic mission” without drowning you in theory.
 
+Language / Idioma / Språk / Kieli:
+🇬🇧 `beginner_manual.en.md` · 🇪🇸 `beginner_manual.es.md` · 🇸🇪 `beginner_manual.sv.md` · 🇫🇮 `beginner_manual.fi.md`
+
 Source reference: `../DCS_AJS37_Flight_Manual_EN.pdf` (official module manual).
 
 ## 0) What You’re Trying To Do
@@ -116,4 +119,3 @@ If you’re new: practice touch-and-goes in calm weather first.
 
 - Practice: 10 takeoffs + 10 landings (same airfield, no weapons).
 - Add one new skill: basic route navigation (waypoints) or simple weapon employment.
-

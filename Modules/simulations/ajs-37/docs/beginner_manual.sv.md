@@ -3,6 +3,9 @@
 Det här är en praktisk steg-för-steg-guide för dig som är ny i flygsimulatorer och ny i Viggen.
 Målet är att du snabbt ska kunna starta, taxa, lyfta, navigera enkelt och landa — utan att drunkna i teori.
 
+Språk / Language / Idioma / Kieli:
+🇬🇧 `beginner_manual.en.md` · 🇪🇸 `beginner_manual.es.md` · 🇸🇪 `beginner_manual.sv.md` · 🇫🇮 `beginner_manual.fi.md`
+
 Officiell referens: `../DCS_AJS37_Flight_Manual_EN.pdf` (modulmanualen).
 
 ## 0) Vad Du Ska Kunna Efteråt
@@ -116,4 +119,3 @@ Tips: träna touch-and-go i lugnt väder.
 
 - Träning: 10 starter + 10 landningar (samma flygfält, inga vapen).
 - Lägg till 1 färdighet: enkel rutt-navigering eller enkel vapenanvändning.
-

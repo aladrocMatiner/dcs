@@ -3,6 +3,9 @@
 Esta guía es práctica y paso a paso para alguien sin experiencia en simulación y sin experiencia en el Viggen.
 El objetivo es que pases de “no sé qué mirar” a “puedo despegar, volar y aterrizar” sin saturarte de teoría.
 
+Idioma / Language / Språk / Kieli:
+🇬🇧 `beginner_manual.en.md` · 🇪🇸 `beginner_manual.es.md` · 🇸🇪 `beginner_manual.sv.md` · 🇫🇮 `beginner_manual.fi.md`
+
 Referencia oficial: `../DCS_AJS37_Flight_Manual_EN.pdf` (manual del módulo).
 
 ## 0) Qué Vas A Conseguir
@@ -116,4 +119,3 @@ Consejo: practica tomas y motor (touch-and-go) con meteorología tranquila.
 
 - Practicar: 10 despegues + 10 aterrizajes (mismo aeródromo, sin armas).
 - Añadir 1 habilidad: navegación básica por ruta o empleo simple de armamento.
-
