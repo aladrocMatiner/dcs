@@ -5,3 +5,7 @@
 ## AJS-37 (Viggen)
 
 Docs (English): [Modules/simulations/ajs-37/README.md](Modules/simulations/ajs-37/README.md)
+
+## DCS Lua Tutorial
+
+Tutorial (English): [docs/dcs-Lua_Tutorial/README.md](docs/dcs-Lua_Tutorial/README.md)
