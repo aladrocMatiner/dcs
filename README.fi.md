@@ -1,0 +1,7 @@
+# dcs
+
+🇬🇧 [English](README.md) | 🇪🇸 [Español](README.es.md) | 🇸🇪 [Svenska](README.sv.md) | 🇫🇮 **Suomi**
+
+## AJS-37 (Viggen)
+
+Docs (Suomi): [Modules/simulations/ajs-37/README.fi.md](Modules/simulations/ajs-37/README.fi.md)

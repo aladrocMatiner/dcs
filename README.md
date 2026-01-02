@@ -1,7 +1,7 @@
 # dcs
 
-## AJS-37 (Viggen)
+🇬🇧 **English** | 🇪🇸 [Español](README.es.md) | 🇸🇪 [Svenska](README.sv.md) | 🇫🇮 [Suomi](README.fi.md)
 
-🇬🇧 **English** | 🇪🇸 [Español](Modules/simulations/ajs-37/README.es.md) | 🇸🇪 [Svenska](Modules/simulations/ajs-37/README.sv.md) | 🇫🇮 [Suomi](Modules/simulations/ajs-37/README.fi.md)
+## AJS-37 (Viggen)
 
 Docs (English): [Modules/simulations/ajs-37/README.md](Modules/simulations/ajs-37/README.md)
