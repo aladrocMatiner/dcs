@@ -1,32 +1,32 @@
 ## 1. Implementation
 
-- [ ] 1.1 Add Chapter 02 files in four languages:
-  - [ ] `docs/dcs-lua/ch02.md`
-  - [ ] `docs/dcs-lua/ch02.es.md`
-  - [ ] `docs/dcs-lua/ch02.sv.md`
-  - [ ] `docs/dcs-lua/ch02.fi.md`
-- [ ] 1.2 Update the tutorial index in all languages to include Chapter 02:
-  - [ ] `docs/dcs-lua/README.md`
-  - [ ] `docs/dcs-lua/README.es.md`
-  - [ ] `docs/dcs-lua/README.sv.md`
-  - [ ] `docs/dcs-lua/README.fi.md`
-- [ ] 1.3 Chapter 02 content (workflow/pipeline, VS Code):
-  - [ ] Explain the “pipeline” concept: author → package → run in DCS → observe → iterate
-  - [ ] VS Code setup (conceptual + practical):
-    - [ ] Recommended Lua extension / language server (editor diagnostics, completion)
-    - [ ] Formatting strategy and conventions (what to format; keep diffs readable)
-    - [ ] Suggested project folder layout for mission scripts
-  - [ ] Clarify “installation”:
-    - [ ] DCS includes its own Lua runtime for mission execution (no separate install needed to *run* in DCS)
-    - [ ] Optional local installs to improve development (Lua interpreter, tooling) and what they are used for
-  - [ ] Describe DCS scripting surface vs community libraries:
-    - [ ] Distinguish built-in DCS scripting API (world/trigger/timer/etc.) from third-party libraries
-    - [ ] List common libraries/frameworks (at least MOOSE and MIST) and what kinds of tasks they help with
-    - [ ] Mention other commonly used add-ons (example categories: IADS, logistics, admin) with short “what it does”
-  - [ ] Provide non-code “example ideas” of workflows enabled by libraries (conceptual, not code-heavy)
-- [ ] 1.4 Keep the chapter didactic:
-  - [ ] Use a “what it is / why it matters / when to use / common pitfalls” structure
-  - [ ] Include a short “checklist” the reader can follow to confirm their pipeline is ready
-- [ ] 1.5 Validate:
-  - [ ] Run `openspec validate add-dcs-lua-tutorial-ch02 --strict`
-  - [ ] Ensure internal Markdown links resolve (if any are added)
+- [x] 1.1 Add Chapter 02 files in four languages:
+  - [x] `docs/dcs-lua/ch02.md`
+  - [x] `docs/dcs-lua/ch02.es.md`
+  - [x] `docs/dcs-lua/ch02.sv.md`
+  - [x] `docs/dcs-lua/ch02.fi.md`
+- [x] 1.2 Update the tutorial index in all languages to include Chapter 02:
+  - [x] `docs/dcs-lua/README.md`
+  - [x] `docs/dcs-lua/README.es.md`
+  - [x] `docs/dcs-lua/README.sv.md`
+  - [x] `docs/dcs-lua/README.fi.md`
+- [x] 1.3 Chapter 02 content (workflow/pipeline, VS Code):
+  - [x] Explain the “pipeline” concept: author → package → run in DCS → observe → iterate
+  - [x] VS Code setup (conceptual + practical):
+    - [x] Recommended Lua extension / language server (editor diagnostics, completion)
+    - [x] Formatting strategy and conventions (what to format; keep diffs readable)
+    - [x] Suggested project folder layout for mission scripts
+  - [x] Clarify “installation”:
+    - [x] DCS includes its own Lua runtime for mission execution (no separate install needed to *run* in DCS)
+    - [x] Optional local installs to improve development (Lua interpreter, tooling) and what they are used for
+  - [x] Describe DCS scripting surface vs community libraries:
+    - [x] Distinguish built-in DCS scripting API (world/trigger/timer/etc.) from third-party libraries
+    - [x] List common libraries/frameworks (at least MOOSE and MIST) and what kinds of tasks they help with
+    - [x] Mention other commonly used add-ons (example categories: IADS, logistics, admin) with short “what it does”
+  - [x] Provide non-code “example ideas” of workflows enabled by libraries (conceptual, not code-heavy)
+- [x] 1.4 Keep the chapter didactic:
+  - [x] Use a “what it is / why it matters / when to use / common pitfalls” structure
+  - [x] Include a short “checklist” the reader can follow to confirm their pipeline is ready
+- [x] 1.5 Validate:
+  - [x] Run `openspec validate add-dcs-lua-tutorial-ch02 --strict`
+  - [x] Ensure internal Markdown links resolve (if any are added)

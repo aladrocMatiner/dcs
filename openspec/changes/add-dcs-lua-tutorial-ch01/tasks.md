@@ -1,24 +1,24 @@
 ## 1. Implementation
 
-- [ ] 1.1 Create tutorial directory under `docs/dcs-lua/`
-- [ ] 1.2 Add `README.md`, `README.es.md`, `README.sv.md`, `README.fi.md` with a localized language bar and a chapter index
-- [ ] 1.3 Add Chapter 01 files in four languages:
-  - [ ] `docs/dcs-lua/ch01.md`
-  - [ ] `docs/dcs-lua/ch01.es.md`
-  - [ ] `docs/dcs-lua/ch01.sv.md`
-  - [ ] `docs/dcs-lua/ch01.fi.md`
-- [ ] 1.4 Chapter 01 content (introductory, conceptual, DCS-specific):
-  - [ ] Introduce DCS at a high level (what it is, what “mission” means in practice)
-  - [ ] Introduce Lua as the scripting language used by DCS for mission scripting (what scripting is, why Lua is used at a high level)
-  - [ ] Explain where mission Lua runs in DCS (Mission Editor triggers: `DO SCRIPT`, `DO SCRIPT FILE`) without going deep into code
-  - [ ] Explain what you can do with DCS Lua mission scripting using conceptual examples (no heavy code):
-    - [ ] Trigger messages, briefings, and training cues
-    - [ ] React to events (takeoff/landing/kills) and create simple logic/flow
-    - [ ] Spawn/activate groups, control AI behavior at a high level
-    - [ ] Use flags/state to build scenarios, scoring, and progression
-    - [ ] Simple zone-based logic and timers (conceptual)
-    - [ ] Debugging mindset (how to reason about “did it run?”)
-  - [ ] Add “common mistakes” and a “next steps / what’s coming in Chapter 02” section
-- [ ] 1.5 Validate:
-  - [ ] Run `openspec validate add-dcs-lua-tutorial-ch01 --strict`
-  - [ ] Ensure all internal Markdown links resolve (if any are added)
+- [x] 1.1 Create tutorial directory under `docs/dcs-lua/`
+- [x] 1.2 Add `README.md`, `README.es.md`, `README.sv.md`, `README.fi.md` with a localized language bar and a chapter index
+- [x] 1.3 Add Chapter 01 files in four languages:
+  - [x] `docs/dcs-lua/ch01.md`
+  - [x] `docs/dcs-lua/ch01.es.md`
+  - [x] `docs/dcs-lua/ch01.sv.md`
+  - [x] `docs/dcs-lua/ch01.fi.md`
+- [x] 1.4 Chapter 01 content (introductory, conceptual, DCS-specific):
+  - [x] Introduce DCS at a high level (what it is, what “mission” means in practice)
+  - [x] Introduce Lua as the scripting language used by DCS for mission scripting (what scripting is, why Lua is used at a high level)
+  - [x] Explain where mission Lua runs in DCS (Mission Editor triggers: `DO SCRIPT`, `DO SCRIPT FILE`) without going deep into code
+  - [x] Explain what you can do with DCS Lua mission scripting using conceptual examples (no heavy code):
+    - [x] Trigger messages, briefings, and training cues
+    - [x] React to events (takeoff/landing/kills) and create simple logic/flow
+    - [x] Spawn/activate groups, control AI behavior at a high level
+    - [x] Use flags/state to build scenarios, scoring, and progression
+    - [x] Simple zone-based logic and timers (conceptual)
+    - [x] Debugging mindset (how to reason about “did it run?”)
+  - [x] Add “common mistakes” and a “next steps / what’s coming in Chapter 02” section
+- [x] 1.5 Validate:
+  - [x] Run `openspec validate add-dcs-lua-tutorial-ch01 --strict`
+  - [x] Ensure all internal Markdown links resolve (if any are added)
