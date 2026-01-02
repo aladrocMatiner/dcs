@@ -7,7 +7,7 @@ Chapter 02 should help new users go from “I understand what DCS Lua is” to �
 - Add Chapter 02 in EN/ES/SV/FI focused on workflow/pipeline using Visual Studio Code.
 - Explain DCS’s embedded Lua runtime vs optional local tooling (Lua interpreter, language server, formatting).
 - Introduce common DCS Lua libraries/frameworks at a conceptual level (what they are for, when to use them).
-- Update the tutorial index (`docs/dcs-lua/README*`) to include Chapter 02 in all four languages.
+- Update the tutorial index (`docs/dcs-Lua_Tutorial/README*`) to include Chapter 02 in all four languages.
 
 ## Impact
 

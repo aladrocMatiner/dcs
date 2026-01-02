@@ -1,16 +1,16 @@
 ## File Layout (proposed)
 
 Tutorial root:
-- `docs/dcs-lua/README.md` (English)
-- `docs/dcs-lua/README.es.md` (Español)
-- `docs/dcs-lua/README.sv.md` (Svenska)
-- `docs/dcs-lua/README.fi.md` (Suomi)
+- `docs/dcs-Lua_Tutorial/README.md` (English)
+- `docs/dcs-Lua_Tutorial/README.es.md` (Español)
+- `docs/dcs-Lua_Tutorial/README.sv.md` (Svenska)
+- `docs/dcs-Lua_Tutorial/README.fi.md` (Suomi)
 
 Chapter 01:
-- `docs/dcs-lua/ch01.md`
-- `docs/dcs-lua/ch01.es.md`
-- `docs/dcs-lua/ch01.sv.md`
-- `docs/dcs-lua/ch01.fi.md`
+- `docs/dcs-Lua_Tutorial/ch01.md`
+- `docs/dcs-Lua_Tutorial/ch01.es.md`
+- `docs/dcs-Lua_Tutorial/ch01.sv.md`
+- `docs/dcs-Lua_Tutorial/ch01.fi.md`
 
 ## Naming Conventions
 

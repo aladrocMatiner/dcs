@@ -4,7 +4,7 @@
 The project MUST provide a DCS Lua tutorial in Markdown with English, Spanish, Swedish, and Finnish versions, using consistent file naming and link-localized navigation.
 
 #### Scenario: Language files exist and are navigable
-- **GIVEN** the tutorial exists under `docs/dcs-lua/`
+- **GIVEN** the tutorial exists under `docs/dcs-Lua_Tutorial/`
 - **WHEN** a reader opens any language version
 - **THEN** they can navigate to the other three languages via a single-line language bar
 - **AND** links are relative and point to the matching language file when it exists

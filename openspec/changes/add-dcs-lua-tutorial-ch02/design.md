@@ -1,14 +1,14 @@
 ## Dependencies
 
-- Chapter 02 assumes the tutorial root (`docs/dcs-lua/README*`) and Chapter 01 exist (from change `add-dcs-lua-tutorial-ch01`).
+- Chapter 02 assumes the tutorial root (`docs/dcs-Lua_Tutorial/README*`) and Chapter 01 exist (from change `add-dcs-lua-tutorial-ch01`).
 
 ## File Layout (proposed)
 
 Chapter 02:
-- `docs/dcs-lua/ch02.md`
-- `docs/dcs-lua/ch02.es.md`
-- `docs/dcs-lua/ch02.sv.md`
-- `docs/dcs-lua/ch02.fi.md`
+- `docs/dcs-Lua_Tutorial/ch02.md`
+- `docs/dcs-Lua_Tutorial/ch02.es.md`
+- `docs/dcs-Lua_Tutorial/ch02.sv.md`
+- `docs/dcs-Lua_Tutorial/ch02.fi.md`
 
 ## Chapter 02 Outline
 

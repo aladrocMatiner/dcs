@@ -1,12 +1,12 @@
 ## 1. Implementation
 
-- [x] 1.1 Create tutorial directory under `docs/dcs-lua/`
+- [x] 1.1 Create tutorial directory under `docs/dcs-Lua_Tutorial/`
 - [x] 1.2 Add `README.md`, `README.es.md`, `README.sv.md`, `README.fi.md` with a localized language bar and a chapter index
 - [x] 1.3 Add Chapter 01 files in four languages:
-  - [x] `docs/dcs-lua/ch01.md`
-  - [x] `docs/dcs-lua/ch01.es.md`
-  - [x] `docs/dcs-lua/ch01.sv.md`
-  - [x] `docs/dcs-lua/ch01.fi.md`
+  - [x] `docs/dcs-Lua_Tutorial/ch01.md`
+  - [x] `docs/dcs-Lua_Tutorial/ch01.es.md`
+  - [x] `docs/dcs-Lua_Tutorial/ch01.sv.md`
+  - [x] `docs/dcs-Lua_Tutorial/ch01.fi.md`
 - [x] 1.4 Chapter 01 content (introductory, conceptual, DCS-specific):
   - [x] Introduce DCS at a high level (what it is, what “mission” means in practice)
   - [x] Introduce Lua as the scripting language used by DCS for mission scripting (what scripting is, why Lua is used at a high level)

@@ -1,15 +1,15 @@
 ## 1. Implementation
 
 - [x] 1.1 Add Chapter 02 files in four languages:
-  - [x] `docs/dcs-lua/ch02.md`
-  - [x] `docs/dcs-lua/ch02.es.md`
-  - [x] `docs/dcs-lua/ch02.sv.md`
-  - [x] `docs/dcs-lua/ch02.fi.md`
+  - [x] `docs/dcs-Lua_Tutorial/ch02.md`
+  - [x] `docs/dcs-Lua_Tutorial/ch02.es.md`
+  - [x] `docs/dcs-Lua_Tutorial/ch02.sv.md`
+  - [x] `docs/dcs-Lua_Tutorial/ch02.fi.md`
 - [x] 1.2 Update the tutorial index in all languages to include Chapter 02:
-  - [x] `docs/dcs-lua/README.md`
-  - [x] `docs/dcs-lua/README.es.md`
-  - [x] `docs/dcs-lua/README.sv.md`
-  - [x] `docs/dcs-lua/README.fi.md`
+  - [x] `docs/dcs-Lua_Tutorial/README.md`
+  - [x] `docs/dcs-Lua_Tutorial/README.es.md`
+  - [x] `docs/dcs-Lua_Tutorial/README.sv.md`
+  - [x] `docs/dcs-Lua_Tutorial/README.fi.md`
 - [x] 1.3 Chapter 02 content (workflow/pipeline, VS Code):
   - [x] Explain the “pipeline” concept: author → package → run in DCS → observe → iterate
   - [x] VS Code setup (conceptual + practical):
