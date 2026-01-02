@@ -10,12 +10,15 @@ The project MUST provide a DCS Lua tutorial in Markdown with English, Spanish, S
 - **AND** links are relative and point to the matching language file when it exists
 
 ### Requirement: Chapter 01 teaches DCS Lua runtime basics
-Chapter 01 MUST focus on DCS mission scripting fundamentals: where Lua runs, how to execute scripts in the Mission Editor, and how to verify execution.
+Chapter 01 MUST be introductory and conceptual. It MUST explain DCS mission scripting at a high level (what scripting is, why DCS uses Lua), what kinds of problems Lua scripting can solve in DCS, and where Lua runs in DCS (Mission Editor triggers) without focusing on code.
 
-#### Scenario: Reader can run and verify a minimal script
-- **GIVEN** a user has a mission in the DCS Mission Editor
-- **WHEN** they follow Chapter 01 to add a minimal script (e.g., `trigger.action.outText`)
-- **THEN** they can verify the script executed in-mission (on-screen message) and know where to debug common errors
+#### Scenario: Reader understands what Lua scripting enables
+- **GIVEN** a user is new to DCS mission scripting
+- **WHEN** they read Chapter 01
+- **THEN** they understand why DCS uses Lua for mission scripting at a high level
+- **AND** they understand where Lua runs in DCS (Mission Editor triggers such as `DO SCRIPT` / `DO SCRIPT FILE`)
+- **AND** they can describe multiple conceptual examples of what can be scripted (events, messages, AI activation, state/flags, zones, timers)
+- **AND** they understand the basic mindset for validating behavior (“did it run?”) and common mistakes to avoid
 
 ### Requirement: One OpenSpec change per tutorial chapter
 Each tutorial chapter MUST be delivered as its own OpenSpec change to keep review and iteration small and incremental.
