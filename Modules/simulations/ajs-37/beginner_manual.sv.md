@@ -4,9 +4,9 @@ Det här är en praktisk steg-för-steg-guide för dig som är ny i flygsimulato
 Målet är att du snabbt ska kunna starta, taxa, lyfta, navigera enkelt och landa — utan att drunkna i teori.
 
 Språk / Language / Idioma / Kieli:
-🇬🇧 `beginner_manual.en.md` · 🇪🇸 `beginner_manual.es.md` · 🇸🇪 `beginner_manual.sv.md` · 🇫🇮 `beginner_manual.fi.md`
+🇬🇧 [English](beginner_manual.en.md) · 🇪🇸 [Español](beginner_manual.es.md) · 🇸🇪 [Svenska](beginner_manual.sv.md) · 🇫🇮 [Suomi](beginner_manual.fi.md)
 
-Officiell referens: `docs/DCS_AJS37_Flight_Manual_EN.pdf` (modulmanualen).
+Officiell referens: [docs/DCS_AJS37_Flight_Manual_EN.pdf](docs/DCS_AJS37_Flight_Manual_EN.pdf) (modulmanualen).
 
 ## 0) Vad Du Ska Kunna Efteråt
 
@@ -17,7 +17,7 @@ Du lär dig, i ordning:
 3. Flyga en enkel navigering (läge `NAV`).
 4. Landa stabilt och kontrollerat.
 
-Vill du bara komma i luften snabbt: använd `quick_takeoff.md`.
+Vill du bara komma i luften snabbt: använd [quick_takeoff.sv.md](quick_takeoff.sv.md).
 
 ## 1) Cockpiten Som Karta (Försök Inte Memorera Allt)
 
@@ -79,7 +79,7 @@ Förenklad procedur:
 5. Rotera enligt HUD-markeringar/cues.
 6. När du är i luften: ställ in landställ upp.
 
-Referens: `quick_takeoff.md` har full checklista och manualbilder.
+Referens: [quick_takeoff.sv.md](quick_takeoff.sv.md) har full checklista och manualbilder.
 
 ## 5) Första Navigeringen (Håll Det Enkelt)
 

@@ -4,9 +4,9 @@ Tämä on käytännöllinen, vaiheittainen opas sinulle, joka olet uusi lentosim
 Tavoite: pääset nopeasti tilanteesta “en tiedä mitä tehdä” tilanteeseen “osaan käynnistää, rullata, nousta, navigoida yksinkertaisesti ja laskeutua”.
 
 Kielivalinta / Languages:
-🇬🇧 `beginner_manual.en.md` · 🇪🇸 `beginner_manual.es.md` · 🇸🇪 `beginner_manual.sv.md` · 🇫🇮 `beginner_manual.fi.md`
+🇬🇧 [English](beginner_manual.en.md) · 🇪🇸 [Español](beginner_manual.es.md) · 🇸🇪 [Svenska](beginner_manual.sv.md) · 🇫🇮 [Suomi](beginner_manual.fi.md)
 
-Virallinen viite: `docs/DCS_AJS37_Flight_Manual_EN.pdf` (moduulin käsikirja).
+Virallinen viite: [docs/DCS_AJS37_Flight_Manual_EN.pdf](docs/DCS_AJS37_Flight_Manual_EN.pdf) (moduulin käsikirja).
 
 ## 0) Mitä Opit
 
@@ -17,7 +17,7 @@ Opit tässä järjestyksessä:
 3. Lentämään yksinkertaisen navigoinnin (tila `NAV`).
 4. Laskeutumaan vakaasti ja hallitusti.
 
-Jos haluat vain ilmaan nopeasti, käytä `quick_takeoff.md`.
+Jos haluat vain ilmaan nopeasti, käytä [quick_takeoff.fi.md](quick_takeoff.fi.md).
 
 ## 1) Ohjaamo Karttana (Älä Yritä Muistaa Kaikkea)
 
@@ -79,7 +79,7 @@ Yksinkertaistettu:
 5. Nosta nokka (rotate) HUD‑merkintöjen mukaan.
 6. Ilmassa: laskuteline ylös.
 
-Viite: `quick_takeoff.md` sisältää täydellisen checklistin ja kuvat.
+Viite: [quick_takeoff.fi.md](quick_takeoff.fi.md) sisältää täydellisen checklistin ja kuvat.
 
 ## 5) Ensimmäinen Navigointi (Pidä Se Yksinkertaisena)
 

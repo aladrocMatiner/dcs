@@ -4,9 +4,9 @@ Esta guía es práctica y paso a paso para alguien sin experiencia en simulació
 El objetivo es que pases de “no sé qué mirar” a “puedo despegar, volar y aterrizar” sin saturarte de teoría.
 
 Idioma / Language / Språk / Kieli:
-🇬🇧 `beginner_manual.en.md` · 🇪🇸 `beginner_manual.es.md` · 🇸🇪 `beginner_manual.sv.md` · 🇫🇮 `beginner_manual.fi.md`
+🇬🇧 [English](beginner_manual.en.md) · 🇪🇸 [Español](beginner_manual.es.md) · 🇸🇪 [Svenska](beginner_manual.sv.md) · 🇫🇮 [Suomi](beginner_manual.fi.md)
 
-Referencia oficial: `docs/DCS_AJS37_Flight_Manual_EN.pdf` (manual del módulo).
+Referencia oficial: [docs/DCS_AJS37_Flight_Manual_EN.pdf](docs/DCS_AJS37_Flight_Manual_EN.pdf) (manual del módulo).
 
 ## 0) Qué Vas A Conseguir
 
@@ -17,7 +17,7 @@ Aprenderás, en este orden:
 3. Navegar una ruta sencilla (modo `NAV`).
 4. Aterrizar de forma estable.
 
-Si solo quieres despegar rápido, usa `quick_takeoff.md`.
+Si solo quieres despegar rápido, usa [quick_takeoff.es.md](quick_takeoff.es.md).
 
 ## 1) “Mapa” del Cockpit (No Intentes Memorizar Todo)
 
@@ -79,7 +79,7 @@ Procedimiento (simplificado):
 5. Rota con las marcas/cues del HUD.
 6. Ya en el aire: tren arriba.
 
-Referencia: `quick_takeoff.md` tiene la checklist completa y capturas del manual.
+Referencia: [quick_takeoff.es.md](quick_takeoff.es.md) tiene la checklist completa y capturas del manual.
 
 ## 5) Tu Primera Navegación (Muy Simple)
 

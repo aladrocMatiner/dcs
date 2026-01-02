@@ -4,9 +4,9 @@ This is a practical, step-by-step guide for someone who is new to flight sims an
 It is designed to get you from “cold airplane” to “basic mission” without drowning you in theory.
 
 Language / Idioma / Språk / Kieli:
-🇬🇧 `beginner_manual.en.md` · 🇪🇸 `beginner_manual.es.md` · 🇸🇪 `beginner_manual.sv.md` · 🇫🇮 `beginner_manual.fi.md`
+🇬🇧 [English](beginner_manual.en.md) · 🇪🇸 [Español](beginner_manual.es.md) · 🇸🇪 [Svenska](beginner_manual.sv.md) · 🇫🇮 [Suomi](beginner_manual.fi.md)
 
-Source reference: `docs/DCS_AJS37_Flight_Manual_EN.pdf` (official module manual).
+Source reference: [docs/DCS_AJS37_Flight_Manual_EN.pdf](docs/DCS_AJS37_Flight_Manual_EN.pdf) (official module manual).
 
 ## 0) What You’re Trying To Do
 
@@ -17,7 +17,7 @@ You will learn, in order:
 3. Navigate a simple route (basic `NAV` mode).
 4. Land safely.
 
-If you only want to get airborne quickly, use `quick_takeoff.md`.
+If you only want to get airborne quickly, use [quick_takeoff.en.md](quick_takeoff.en.md).
 
 ## 1) A Map of the Cockpit (Don’t Memorize Everything)
 
@@ -79,7 +79,7 @@ Procedure (simplified):
 5. Rotate at the correct cues (HUD markers / time-distance line).
 6. When airborne: gear up.
 
-Reference: see `quick_takeoff.md` for the full checklist and the manual figures.
+Reference: see [quick_takeoff.en.md](quick_takeoff.en.md) for the full checklist and the manual figures.
 
 ## 5) Your First Navigation (Keep It Simple)
 
