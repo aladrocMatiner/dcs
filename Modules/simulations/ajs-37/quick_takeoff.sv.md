@@ -5,6 +5,34 @@ Språk:
 
 Bygger på den officiella manualen: [docs/DCS_AJS37_Flight_Manual_EN.pdf](docs/DCS_AJS37_Flight_Manual_EN.pdf) (“Takeoff & Landing”).
 
+## Steg-för-steg (fusklapp)
+
+1. Rikta in på banan och håll hjulbroms.
+2. `Master Mode`: `NAV` (ställ in minst 2 minuter innan startkraft).
+3. (Vid behov) manuell initial kurs: rikta in på banriktningen → tryck `Reference`.
+4. `SPAK`: `ON` (bekräfta lampan).
+5. Landningsljus: `LANDNING` (ON).
+6. Ge max effekt **utan efterbrännkammare** (håll EGT inom gränser).
+7. Släpp broms och håll centerlinjen med pedaler.
+8. Vid behov: tänd efterbrännkammare (kontrollera zon/tober/EPR).
+9. Rotera med HUD:ens tid-/distansmarkeringar (eller Metod 2 hastigheter/attityder).
+10. Positiv stigning: landställ upp (obs: klaffar dras in med landstället).
+11. Fortsätt stiga tills FPV syns och HUD växlar till navigationssymbolik.
+12. Höj HUD-glaset till inflight om du behöver symbolik vid lägre AoA.
+
+### Tangentbord / bindningar
+
+I DCS kan bindningar skilja sig och många modulspecifika reglage kan vara obundna som standard. Använd detta som en checklista för vad som bör bindas (plus ett par vanliga DCS-standarder):
+
+| Funktion | Tangent | Not |
+| --- | --- | --- |
+| Hjulbroms (håll) | `W` (vanlig standard) | Håll när du ger effekt. |
+| Landställ (toggle) | `G` (vanlig standard) | Landställ upp när du är i luften. |
+| `Master Mode` → `NAV` | (binda) | Viktigt: 2 min innan startkraft. |
+| `SPAK` ON/OFF | (binda) | Bekräfta ON före start. |
+| `Reference` (spak) | (binda) | För manuell initial kurs. |
+| HUD-glas upp/ner | (binda) | Bra för manuell kurs / symbolik vid låg AoA. |
+
 ## Innan du kör ut på banan (snabbt)
 
 - Flygplanet klart (motor igång, generator ON, grundsystem stabila).

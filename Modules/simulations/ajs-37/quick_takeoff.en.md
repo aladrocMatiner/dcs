@@ -5,6 +5,34 @@ Language:
 
 Based on the official manual: [docs/DCS_AJS37_Flight_Manual_EN.pdf](docs/DCS_AJS37_Flight_Manual_EN.pdf) (“Takeoff & Landing”).
 
+## Step-by-step (cheat sheet)
+
+1. Line up on the runway, hold wheel brakes.
+2. `Master Mode`: `NAV` (set it at least 2 minutes before takeoff power).
+3. (If needed) manual initial course: align with runway heading → press `Reference`.
+4. `SPAK`: `ON` (confirm the light).
+5. Landing light: `LANDNING` (ON).
+6. Advance throttle to max power **without afterburner** (check EGT limits).
+7. Release brakes, keep centerline with pedals.
+8. If required, ignite afterburner (check zone/nozzle/EPR indications).
+9. Rotate using the HUD time/distance line markers (or Method 2 speeds/attitudes).
+10. Positive climb: gear up (note flaps retract with gear).
+11. Continue climb until the FPV appears and the HUD switches to navigation symbology.
+12. Raise the HUD glass to inflight mode if you need symbology at lower AoA.
+
+### Keyboard shortcuts / bindings
+
+DCS bindings are configurable and many module-specific controls can be unbound by default. Use this as a checklist of what to bind (plus a couple of common DCS defaults):
+
+| Action | Keyboard | Notes |
+| --- | --- | --- |
+| Wheel brakes (hold) | `W` (common default) | Hold while applying power. |
+| Landing gear toggle | `G` (common default) | Gear up once airborne. |
+| `Master Mode` → `NAV` | (bind) | Critical: set 2 minutes before takeoff power. |
+| `SPAK` ON/OFF | (bind) | Confirm ON before takeoff. |
+| `Reference` (stick) | (bind) | Used for manual initial course setting. |
+| HUD glass up/down | (bind) | Useful for manual course / low AoA symbology. |
+
 ## Before entering the runway (quick)
 
 - Aircraft ready (engine running, generator ON, basic systems stable).

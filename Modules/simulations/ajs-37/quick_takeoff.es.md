@@ -5,6 +5,34 @@ Idioma:
 
 Basado en el manual oficial: [docs/DCS_AJS37_Flight_Manual_EN.pdf](docs/DCS_AJS37_Flight_Manual_EN.pdf) (“Takeoff & Landing”).
 
+## Secuencia paso a paso (chuleta)
+
+1. Alinea en pista y mantén frenos de rueda.
+2. `Master Mode`: `NAV` (ponlo al menos 2 minutos antes de dar potencia de despegue).
+3. (Si hace falta) curso inicial manual: alinear con rumbo de pista → pulsar `Reference`.
+4. `SPAK`: `ON` (confirma la luz).
+5. Luz de aterrizaje: `LANDNING` (ON).
+6. Acelera a potencia máxima **sin postcombustión** (respeta límites de EGT).
+7. Suelta frenos y mantén eje con pedales.
+8. Si lo necesitas, enciende postcombustión (comprueba zona/tobera/EPR).
+9. Rota usando las marcas de la línea de tiempo/distancia del HUD (o velocidades/actitudes del Método 2).
+10. Ascenso positivo: tren arriba (ojo: al subir tren se retraen flaps).
+11. Continúa el ascenso hasta que aparezca el FPV y el HUD pase a simbología de navegación.
+12. Sube el cristal del HUD a modo inflight si necesitas simbología con AoA más bajo.
+
+### Atajos de teclado / bindings
+
+En DCS las teclas son configurables y muchos mandos específicos del módulo pueden venir sin asignar por defecto. Úsalo como checklist de lo que conviene asignar (más un par de teclas típicas de DCS):
+
+| Acción | Tecla | Nota |
+| --- | --- | --- |
+| Frenos de rueda (mantener) | `W` (típico por defecto) | Mantén mientras aplicas potencia. |
+| Tren de aterrizaje (toggle) | `G` (típico por defecto) | Tren arriba una vez en el aire. |
+| `Master Mode` → `NAV` | (asignar) | Clave: 2 minutos antes de dar potencia. |
+| `SPAK` ON/OFF | (asignar) | Confirma ON antes del despegue. |
+| `Reference` (palanca) | (asignar) | Para el curso inicial manual. |
+| Cristal HUD arriba/abajo | (asignar) | Útil para curso manual / simbología a AoA bajo. |
+
 ## Antes de entrar a pista (rápido)
 
 - Avión listo (motor arrancado, generador ON, sistemas básicos estables).

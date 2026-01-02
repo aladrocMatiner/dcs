@@ -5,6 +5,34 @@ Kieli:
 
 Perustuu viralliseen käsikirjaan: [docs/DCS_AJS37_Flight_Manual_EN.pdf](docs/DCS_AJS37_Flight_Manual_EN.pdf) (“Takeoff & Landing”).
 
+## Vaiheittain (pika‑muistilista)
+
+1. Asetu kiitotielle ja pidä pyöräjarru.
+2. `Master Mode`: `NAV` (aseta vähintään 2 minuuttia ennen nousutehoa).
+3. (Tarvittaessa) manuaalinen alkuperäiskurssi: suunta kiitotien mukaan → paina `Reference`.
+4. `SPAK`: `ON` (varmista merkkivalo).
+5. Laskuvalo: `LANDNING` (ON).
+6. Täysi teho **ilman jälkipolttoa** (pidä EGT rajojen sisällä).
+7. Vapauta jarru ja pidä keskilinja polkimilla.
+8. Tarvittaessa: sytytä jälkipoltto (tarkista vyöhyke/suutin/EPR).
+9. Rotaatio HUD:n aika-/matkaviivan merkeistä (tai Menetelmä 2 nopeudet/asennot).
+10. Positiivinen nousu: teline ylös (huom: laipat vetäytyvät telineen mukana).
+11. Jatka nousua kunnes FPV näkyy ja HUD vaihtaa navigointisymbologiaan.
+12. Nosta HUD-lasi inflight-asentoon, jos tarvitset symbologiaa matalammalla AoA:lla.
+
+### Näppäimistö / sidonnat
+
+DCS:ssä sidonnat ovat muokattavissa ja monet modulin omat toiminnot voivat olla oletuksena sitomatta. Käytä tätä listaa muistutuksena siitä, mitä kannattaa sitoa (sekä pari yleistä DCS-oletusta):
+
+| Toiminto | Näppäin | Huom |
+| --- | --- | --- |
+| Pyöräjarru (pidä) | `W` (yleinen oletus) | Pidä kun lisäät tehoa. |
+| Laskuteline (toggle) | `G` (yleinen oletus) | Teline ylös, kun olet ilmassa. |
+| `Master Mode` → `NAV` | (sido) | Tärkeä: 2 min ennen nousutehoa. |
+| `SPAK` ON/OFF | (sido) | Varmista ON ennen nousua. |
+| `Reference` (sauva) | (sido) | Manuaaliseen alkuperäiskurssiin. |
+| HUD-lasi ylös/alas | (sido) | Hyödyllinen manuaalikurssiin / symbologiaan matalalla AoA:lla. |
+
 ## Ennen kiitotielle siirtymistä (nopeasti)
 
 - Kone valmis (moottori käynnissä, generaattori ON, perusjärjestelmät vakaat).
