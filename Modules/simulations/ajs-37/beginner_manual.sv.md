@@ -6,7 +6,7 @@ Målet är att du snabbt ska kunna starta, taxa, lyfta, navigera enkelt och land
 Språk / Language / Idioma / Kieli:
 🇬🇧 `beginner_manual.en.md` · 🇪🇸 `beginner_manual.es.md` · 🇸🇪 `beginner_manual.sv.md` · 🇫🇮 `beginner_manual.fi.md`
 
-Officiell referens: `../DCS_AJS37_Flight_Manual_EN.pdf` (modulmanualen).
+Officiell referens: `docs/DCS_AJS37_Flight_Manual_EN.pdf` (modulmanualen).
 
 ## 0) Vad Du Ska Kunna Efteråt
 
@@ -23,7 +23,7 @@ Vill du bara komma i luften snabbt: använd `quick_takeoff.md`.
 
 Börja med att lära dig *var* saker finns:
 
-![Cockpitlayout](pedagogical_assets/cockpit_layout.png)
+![Cockpitlayout](docs/pedagogical_assets/cockpit_layout.png)
 
 - **Frontpanelen**: primära flyginstrument + HUD + varningslampor.
 - **Vänster sida**: många systemreglage (motor, el, m.m.).
@@ -31,7 +31,7 @@ Börja med att lära dig *var* saker finns:
 
 Frontpanelöversikt:
 
-![Frontpanelen](pedagogical_assets/front_panel.png)
+![Frontpanelen](docs/pedagogical_assets/front_panel.png)
 
 ### De 6 Viktigaste Sakerna Att Alltid Övervaka
 

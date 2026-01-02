@@ -6,7 +6,7 @@ El objetivo es que pases de “no sé qué mirar” a “puedo despegar, volar y
 Idioma / Language / Språk / Kieli:
 🇬🇧 `beginner_manual.en.md` · 🇪🇸 `beginner_manual.es.md` · 🇸🇪 `beginner_manual.sv.md` · 🇫🇮 `beginner_manual.fi.md`
 
-Referencia oficial: `../DCS_AJS37_Flight_Manual_EN.pdf` (manual del módulo).
+Referencia oficial: `docs/DCS_AJS37_Flight_Manual_EN.pdf` (manual del módulo).
 
 ## 0) Qué Vas A Conseguir
 
@@ -23,7 +23,7 @@ Si solo quieres despegar rápido, usa `quick_takeoff.md`.
 
 Primero aprende *dónde* está cada cosa importante:
 
-![Distribución del cockpit](pedagogical_assets/cockpit_layout.png)
+![Distribución del cockpit](docs/pedagogical_assets/cockpit_layout.png)
 
 - **Panel frontal**: instrumentos de vuelo principales + HUD + avisos.
 - **Lado izquierdo**: muchos controles de sistemas (motor, eléctrico, etc.).
@@ -31,7 +31,7 @@ Primero aprende *dónde* está cada cosa importante:
 
 Vista del panel frontal:
 
-![Panel frontal](pedagogical_assets/front_panel.png)
+![Panel frontal](docs/pedagogical_assets/front_panel.png)
 
 ### Las 6 Cosas Que Siempre Debes Vigilar
 

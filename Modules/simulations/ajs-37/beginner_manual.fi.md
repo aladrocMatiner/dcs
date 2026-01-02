@@ -6,7 +6,7 @@ Tavoite: pääset nopeasti tilanteesta “en tiedä mitä tehdä” tilanteeseen
 Kielivalinta / Languages:
 🇬🇧 `beginner_manual.en.md` · 🇪🇸 `beginner_manual.es.md` · 🇸🇪 `beginner_manual.sv.md` · 🇫🇮 `beginner_manual.fi.md`
 
-Virallinen viite: `../DCS_AJS37_Flight_Manual_EN.pdf` (moduulin käsikirja).
+Virallinen viite: `docs/DCS_AJS37_Flight_Manual_EN.pdf` (moduulin käsikirja).
 
 ## 0) Mitä Opit
 
@@ -23,7 +23,7 @@ Jos haluat vain ilmaan nopeasti, käytä `quick_takeoff.md`.
 
 Opettele ensin *missä* asiat ovat:
 
-![Ohjaamon yleisasettelu](pedagogical_assets/cockpit_layout.png)
+![Ohjaamon yleisasettelu](docs/pedagogical_assets/cockpit_layout.png)
 
 - **Etupaneeli**: tärkeimmät lentomittarit + HUD + varoitusvalot.
 - **Vasen sivu**: paljon järjestelmäkytkimiä (moottori, sähkö jne.).
@@ -31,7 +31,7 @@ Opettele ensin *missä* asiat ovat:
 
 Etupaneelin yleiskuva:
 
-![Etupaneeli](pedagogical_assets/front_panel.png)
+![Etupaneeli](docs/pedagogical_assets/front_panel.png)
 
 ### 6 Asiaa, Joita Seuraat Aina
 
@@ -119,4 +119,3 @@ Vinkki: harjoittele touch‑and‑go’ta tyynessä säässä.
 
 - Harjoitus: 10 nousua + 10 laskua (sama kenttä, ei aseita).
 - Lisää 1 taito: perus reittinavigointi tai yksinkertainen aseiden käyttö.
-

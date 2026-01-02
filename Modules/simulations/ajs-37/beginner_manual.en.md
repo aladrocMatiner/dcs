@@ -6,7 +6,7 @@ It is designed to get you from “cold airplane” to “basic mission” withou
 Language / Idioma / Språk / Kieli:
 🇬🇧 `beginner_manual.en.md` · 🇪🇸 `beginner_manual.es.md` · 🇸🇪 `beginner_manual.sv.md` · 🇫🇮 `beginner_manual.fi.md`
 
-Source reference: `../DCS_AJS37_Flight_Manual_EN.pdf` (official module manual).
+Source reference: `docs/DCS_AJS37_Flight_Manual_EN.pdf` (official module manual).
 
 ## 0) What You’re Trying To Do
 
@@ -23,7 +23,7 @@ If you only want to get airborne quickly, use `quick_takeoff.md`.
 
 First, learn *where* things live:
 
-![Cockpit layout](pedagogical_assets/cockpit_layout.png)
+![Cockpit layout](docs/pedagogical_assets/cockpit_layout.png)
 
 - **Front panel**: main flight instruments + HUD + warning lights.
 - **Left side**: many aircraft/system controls (engine, electrical, etc.).
@@ -31,7 +31,7 @@ First, learn *where* things live:
 
 Front panel overview:
 
-![Front panel overview](pedagogical_assets/front_panel.png)
+![Front panel overview](docs/pedagogical_assets/front_panel.png)
 
 ### The 6 Things You Always Monitor
 

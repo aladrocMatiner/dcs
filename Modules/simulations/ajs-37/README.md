@@ -12,3 +12,7 @@ Pick your language:
 ## Quick Reference
 
 - Takeoff checklist: `quick_takeoff.md`
+
+## Official Manual
+
+- PDF: `docs/DCS_AJS37_Flight_Manual_EN.pdf`
