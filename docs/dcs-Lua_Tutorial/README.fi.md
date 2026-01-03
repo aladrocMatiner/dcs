@@ -38,18 +38,18 @@ MSE on usein **sanitisoitu**. Osa Lua‑kirjastoista (`io`, `os`, `lfs`) voi oll
 
 ## Luvut
 
-- Luku 01 — Johdanto: DCS + Lua + mitä skriptaus mahdollistaa: [ch01.fi.md](ch01.fi.md)
-- Luku 02 — Työputki (VS Code), asennukset ja yleiset kirjastot: [ch02.fi.md](ch02.fi.md)
-- Luku 03 — Tervetuloa (Cap 0): ensimmäinen onnistuminen: [ch03.fi.md](ch03.fi.md)
-- Luku 04 — Missä Lua ajetaan DCS:ssä: [ch04.fi.md](ch04.fi.md)
-- Luku 05 — Muuttujat: [ch05.fi.md](ch05.fi.md)
-- Luku 06 — Merkkijonot ja `string.format`: [ch06.fi.md](ch06.fi.md)
-- Luku 07 — CFG‑taulukko: [ch07.fi.md](ch07.fi.md)
-- Luku 08 — If/Else + flagit: [ch08.fi.md](ch08.fi.md)
-- Luku 09 — Funktiot: [ch09.fi.md](ch09.fi.md)
-- Luku 10 — Turvallinen ajastus: [ch10.fi.md](ch10.fi.md)
-- Luku 11 — F10‑valikko: [ch11.fi.md](ch11.fi.md)
-- Luku 12 — Tapahtumat + laskuri: [ch12.fi.md](ch12.fi.md)
-- Luku 13 — Rakenne (`MyMission`): [ch13.fi.md](ch13.fi.md)
-- Luku 14 — Vianhaku: [ch14.fi.md](ch14.fi.md)
-- Luku 15 — Reseptit: [ch15.fi.md](ch15.fi.md)
+- [Luku 01](ch01.fi.md) — Johdanto: DCS + Lua + mitä skriptaus mahdollistaa
+- [Luku 02](ch02.fi.md) — Työputki (VS Code), asennukset ja yleiset kirjastot
+- [Luku 03](ch03.fi.md) — Tervetuloa (Cap 0): ensimmäinen onnistuminen
+- [Luku 04](ch04.fi.md) — Missä Lua ajetaan DCS:ssä
+- [Luku 05](ch05.fi.md) — Muuttujat
+- [Luku 06](ch06.fi.md) — Merkkijonot ja `string.format`
+- [Luku 07](ch07.fi.md) — CFG‑taulukko
+- [Luku 08](ch08.fi.md) — If/Else + flagit
+- [Luku 09](ch09.fi.md) — Funktiot
+- [Luku 10](ch10.fi.md) — Turvallinen ajastus
+- [Luku 11](ch11.fi.md) — F10‑valikko
+- [Luku 12](ch12.fi.md) — Tapahtumat + laskuri
+- [Luku 13](ch13.fi.md) — Rakenne (`MyMission`)
+- [Luku 14](ch14.fi.md) — Vianhaku
+- [Luku 15](ch15.fi.md) — Reseptit

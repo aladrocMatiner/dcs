@@ -45,18 +45,18 @@ The mission environment (MSE) is often **sanitized** for security. Some Lua libr
 
 ## Chapters
 
-- Chapter 01 — Introduction: DCS + Lua + what scripting enables: [ch01.md](ch01.md)
-- Chapter 02 — Workflow pipeline (VS Code), setup, and common libraries: [ch02.md](ch02.md)
-- Chapter 03 — Welcome (Cap 0): your first Lua win in DCS: [ch03.md](ch03.md)
-- Chapter 04 — Where Lua runs in DCS (and where to paste it): [ch04.md](ch04.md)
-- Chapter 05 — Variables (no fear): store mission data: [ch05.md](ch05.md)
-- Chapter 06 — Strings and clean messages (`string.format`): [ch06.md](ch06.md)
-- Chapter 07 — Tables as configuration (CFG): [ch07.md](ch07.md)
-- Chapter 08 — If/Else + flags: simple decisions: [ch08.md](ch08.md)
-- Chapter 09 — Functions: stop copy/paste: [ch09.md](ch09.md)
-- Chapter 10 — Time + safe scheduler: [ch10.md](ch10.md)
-- Chapter 11 — F10 menu: player controls: [ch11.md](ch11.md)
-- Chapter 12 — Events: simple counter / scoreboard: [ch12.md](ch12.md)
-- Chapter 13 — Script structure: `MyMission` + config + logic: [ch13.md](ch13.md)
-- Chapter 14 — Debugging: practical checklist: [ch14.md](ch14.md)
-- Chapter 15 — Copy/paste recipes: [ch15.md](ch15.md)
+- [Chapter 01](ch01.md) — Introduction: DCS + Lua + what scripting enables
+- [Chapter 02](ch02.md) — Workflow pipeline (VS Code), setup, and common libraries
+- [Chapter 03](ch03.md) — Welcome (Cap 0): your first Lua win in DCS
+- [Chapter 04](ch04.md) — Where Lua runs in DCS (and where to paste it)
+- [Chapter 05](ch05.md) — Variables (no fear): store mission data
+- [Chapter 06](ch06.md) — Strings and clean messages (`string.format`)
+- [Chapter 07](ch07.md) — Tables as configuration (CFG)
+- [Chapter 08](ch08.md) — If/Else + flags: simple decisions
+- [Chapter 09](ch09.md) — Functions: stop copy/paste
+- [Chapter 10](ch10.md) — Time + safe scheduler
+- [Chapter 11](ch11.md) — F10 menu: player controls
+- [Chapter 12](ch12.md) — Events: simple counter / scoreboard
+- [Chapter 13](ch13.md) — Script structure: `MyMission` + config + logic
+- [Chapter 14](ch14.md) — Debugging: practical checklist
+- [Chapter 15](ch15.md) — Copy/paste recipes

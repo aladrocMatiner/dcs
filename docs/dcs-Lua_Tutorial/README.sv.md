@@ -38,18 +38,18 @@ MSE är ofta **sanitiserat**. Vissa Lua‑libbar (`io`, `os`, `lfs`) kan vara av
 
 ## Kapitel
 
-- Kapitel 01 — Introduktion: DCS + Lua + vad scriptning möjliggör: [ch01.sv.md](ch01.sv.md)
-- Kapitel 02 — Arbetsflöde/pipeline (VS Code), setup och vanliga bibliotek: [ch02.sv.md](ch02.sv.md)
-- Kapitel 03 — Välkommen (Cap 0): första Lua‑vinsten: [ch03.sv.md](ch03.sv.md)
-- Kapitel 04 — Var Lua körs i DCS: [ch04.sv.md](ch04.sv.md)
-- Kapitel 05 — Variabler: [ch05.sv.md](ch05.sv.md)
-- Kapitel 06 — Strings och `string.format`: [ch06.sv.md](ch06.sv.md)
-- Kapitel 07 — Tabeller som CFG: [ch07.sv.md](ch07.sv.md)
-- Kapitel 08 — If/Else + flags: [ch08.sv.md](ch08.sv.md)
-- Kapitel 09 — Funktioner: [ch09.sv.md](ch09.sv.md)
-- Kapitel 10 — Scheduler säkert: [ch10.sv.md](ch10.sv.md)
-- Kapitel 11 — F10‑meny: [ch11.sv.md](ch11.sv.md)
-- Kapitel 12 — Events + räknare: [ch12.sv.md](ch12.sv.md)
-- Kapitel 13 — Struktur (`MyMission`): [ch13.sv.md](ch13.sv.md)
-- Kapitel 14 — Felsökning: [ch14.sv.md](ch14.sv.md)
-- Kapitel 15 — Recept: [ch15.sv.md](ch15.sv.md)
+- [Kapitel 01](ch01.sv.md) — Introduktion: DCS + Lua + vad scriptning möjliggör
+- [Kapitel 02](ch02.sv.md) — Arbetsflöde/pipeline (VS Code), setup och vanliga bibliotek
+- [Kapitel 03](ch03.sv.md) — Välkommen (Cap 0): första Lua‑vinsten
+- [Kapitel 04](ch04.sv.md) — Var Lua körs i DCS
+- [Kapitel 05](ch05.sv.md) — Variabler
+- [Kapitel 06](ch06.sv.md) — Strings och `string.format`
+- [Kapitel 07](ch07.sv.md) — Tabeller som CFG
+- [Kapitel 08](ch08.sv.md) — If/Else + flags
+- [Kapitel 09](ch09.sv.md) — Funktioner
+- [Kapitel 10](ch10.sv.md) — Scheduler säkert
+- [Kapitel 11](ch11.sv.md) — F10‑meny
+- [Kapitel 12](ch12.sv.md) — Events + räknare
+- [Kapitel 13](ch13.sv.md) — Struktur (`MyMission`)
+- [Kapitel 14](ch14.sv.md) — Felsökning
+- [Kapitel 15](ch15.sv.md) — Recept

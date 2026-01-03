@@ -49,18 +49,18 @@ En muchas instalaciones, el entorno de misión (MSE) está **sanitizado** por se
 
 ## Capítulos
 
-- Capítulo 01 — Introducción: DCS + Lua + para qué sirve el scripting: [ch01.es.md](ch01.es.md)
-- Capítulo 02 — Pipeline de trabajo (VS Code), configuración y librerías comunes: [ch02.es.md](ch02.es.md)
-- Capítulo 03 — Bienvenida (Cap 0): tu primer éxito con Lua en DCS: [ch03.es.md](ch03.es.md)
-- Capítulo 04 — Dónde vive Lua en DCS (y dónde pegarlo): [ch04.es.md](ch04.es.md)
-- Capítulo 05 — Variables (sin miedo): guardar datos: [ch05.es.md](ch05.es.md)
-- Capítulo 06 — Strings y mensajes bonitos (`string.format`): [ch06.es.md](ch06.es.md)
-- Capítulo 07 — Tablas como configuración (CFG): [ch07.es.md](ch07.es.md)
-- Capítulo 08 — If/Else + Flags: decisiones simples: [ch08.es.md](ch08.es.md)
-- Capítulo 09 — Funciones: deja de copiar/pegar: [ch09.es.md](ch09.es.md)
-- Capítulo 10 — Tiempo y scheduler seguro: [ch10.es.md](ch10.es.md)
-- Capítulo 11 — Menú F10: controles para el jugador: [ch11.es.md](ch11.es.md)
-- Capítulo 12 — Eventos: contador / scoreboard simple: [ch12.es.md](ch12.es.md)
-- Capítulo 13 — Orden y estructura: `MyMission` + config + lógica: [ch13.es.md](ch13.es.md)
-- Capítulo 14 — Depuración sin drama: checklist: [ch14.es.md](ch14.es.md)
-- Capítulo 15 — Biblioteca de recetas copiables: [ch15.es.md](ch15.es.md)
+- [Capítulo 01](ch01.es.md) — Introducción: DCS + Lua + para qué sirve el scripting
+- [Capítulo 02](ch02.es.md) — Pipeline de trabajo (VS Code), configuración y librerías comunes
+- [Capítulo 03](ch03.es.md) — Bienvenida (Cap 0): tu primer éxito con Lua en DCS
+- [Capítulo 04](ch04.es.md) — Dónde vive Lua en DCS (y dónde pegarlo)
+- [Capítulo 05](ch05.es.md) — Variables (sin miedo): guardar datos
+- [Capítulo 06](ch06.es.md) — Strings y mensajes bonitos (`string.format`)
+- [Capítulo 07](ch07.es.md) — Tablas como configuración (CFG)
+- [Capítulo 08](ch08.es.md) — If/Else + Flags: decisiones simples
+- [Capítulo 09](ch09.es.md) — Funciones: deja de copiar/pegar
+- [Capítulo 10](ch10.es.md) — Tiempo y scheduler seguro
+- [Capítulo 11](ch11.es.md) — Menú F10: controles para el jugador
+- [Capítulo 12](ch12.es.md) — Eventos: contador / scoreboard simple
+- [Capítulo 13](ch13.es.md) — Orden y estructura: `MyMission` + config + lógica
+- [Capítulo 14](ch14.es.md) — Depuración sin drama: checklist
+- [Capítulo 15](ch15.es.md) — Biblioteca de recetas copiables
