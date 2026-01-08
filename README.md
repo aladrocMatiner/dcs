@@ -9,3 +9,7 @@ Docs (English): [Modules/simulations/ajs-37/README.md](Modules/simulations/ajs-3
 ## DCS Lua Tutorial
 
 Tutorial (English): [docs/dcs-Lua_Tutorial/README.md](docs/dcs-Lua_Tutorial/README.md)
+
+## DCS Mission Editor Tutorial
+
+Tutorial (English): [docs/dcs-Mission_Editor_Tutorial/README.md](docs/dcs-Mission_Editor_Tutorial/README.md)

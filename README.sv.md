@@ -9,3 +9,7 @@ Docs (Svenska): [Modules/simulations/ajs-37/README.sv.md](Modules/simulations/aj
 ## Lua‑tutorial för DCS
 
 Guide (Svenska): [docs/dcs-Lua_Tutorial/README.sv.md](docs/dcs-Lua_Tutorial/README.sv.md)
+
+## DCS Mission Editor‑tutorial
+
+Guide (Svenska): [docs/dcs-Mission_Editor_Tutorial/README.sv.md](docs/dcs-Mission_Editor_Tutorial/README.sv.md)

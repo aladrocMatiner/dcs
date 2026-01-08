@@ -9,3 +9,7 @@ Docs (Español): [Modules/simulations/ajs-37/README.es.md](Modules/simulations/a
 ## Tutorial de Lua para DCS
 
 Tutorial (Español): [docs/dcs-Lua_Tutorial/README.es.md](docs/dcs-Lua_Tutorial/README.es.md)
+
+## Tutorial del Editor de Misiones de DCS
+
+Tutorial (Español): [docs/dcs-Mission_Editor_Tutorial/README.es.md](docs/dcs-Mission_Editor_Tutorial/README.es.md)
